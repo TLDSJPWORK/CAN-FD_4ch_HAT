@@ -1,0 +1,4 @@
+[Match]
+Property=ID_PATH=platform-fe204000.spi-cs-0
+[Link]
+Name=rcan0

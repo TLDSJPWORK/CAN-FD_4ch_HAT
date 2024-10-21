@@ -1,0 +1,10 @@
+dtoverlay=spi0-2cs,cs0_pin=8,cs1_pin=7
+dtoverlay=spi1-2cs,cs0_pin=18,cs1_pin=17
+
+dtoverlay=mcp251xfd,spi0-1,oscillator=20000000,interrupt=22
+dtoverlay=mcp251xfd,spi0-0,oscillator=20000000,interrupt=27
+
+dtoverlay=mcp251xfd,spi1-1,oscillator=20000000,interrupt=24
+dtoverlay=mcp251xfd,spi1-0,oscillator=20000000,interrupt=23
+
+dtparam=nohz=off
