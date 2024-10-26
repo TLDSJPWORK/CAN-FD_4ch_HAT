@@ -9,14 +9,18 @@ MCP2518 + MCP2562FD CAN FD 4ch HAT for Raspberry Pi
 - MCP2518向けのドライバにて簡単に利用できます。
 - (おまけ)3.3V駆動のESP32でも使うことはできます。
 
-### 基盤
+### 基板
 ![TopImage](/docs/CAN-FD_4ch_HAT_Top_Image.png)
 ![BottomImage](/docs/CAN-FD_4ch_HAT_Bottom_Image.png)
 ![TopPhoto](/docs/CAN-FD_4ch_HAT_Top_Photo.png)
+![TopPhoto](/docs/CAN-FD_4ch_HAT_Top_Photo_02.jpg)
+![TopPhoto](/docs/CAN-FD_4ch_HAT_Top_Photo_03.jpg)
+
+### 基板の設定
+![TopPhoto](/docs/CAN-FD_4ch_HAT_Top_Image_explanation.jpg)
 
 ### 使用例
-準備中
-<!-- ![UseCase_01](/examples/UseCase_01.png) -->
+![UseCase_01](/docs/UseCase_01.jpg)
 
 ### 資料
 - [サポートページ](https://github.com/TLDSJPWORK/CAN-FD_4ch_HAT)
