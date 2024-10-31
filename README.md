@@ -22,6 +22,10 @@ MCP2518 + MCP2562FD CAN FD 4ch HAT for Raspberry Pi
 ### 使用例
 ![UseCase_01](/docs/UseCase_01.jpg)
 
+### 販売ページ
+
+- [スイッチサイエンス様](https://ssci.to/10018)
+
 ### 資料
 - [サポートページ](https://github.com/TLDSJPWORK/CAN-FD_4ch_HAT)
 - [回路図](/docs/CAN-FD_4ch_HAT.pdf)
