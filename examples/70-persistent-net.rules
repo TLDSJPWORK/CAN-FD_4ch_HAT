@@ -1,0 +1,4 @@
+KERNEL=="can[0-9]*", KERNELS=="spi0.0", NAME="rcan0"
+KERNEL=="can[0-9]*", KERNELS=="spi0.1", NAME="rcan1"
+KERNEL=="can[0-9]*", KERNELS=="spi1.0", NAME="rcan2"
+KERNEL=="can[0-9]*", KERNELS=="spi1.1", NAME="rcan3"
