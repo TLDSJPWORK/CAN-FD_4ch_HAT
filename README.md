@@ -34,10 +34,7 @@ MCP2518 + MCP2562FD CAN FD 4ch HAT for Raspberry Pi
 
 - Rasperry Pi向け利用方法
   - [/boot/config.txt](examples/config.txt)
-  - [/etc/systemd/network/49-can0.link](examples/49-can0.link)
-  - [/etc/systemd/network/49-can1.link](examples/49-can1.link)
-  - [/etc/systemd/network/49-can2.link](examples/49-can2.link)
-  - [/etc/systemd/network/49-can3.link](examples/49-can3.link)
+  - [/etc/udev/rules.d/70-persistent-net.rules](examples/70-persistent-net.rules)
   - [/home/pi/up.sh](examples/up.sh)
 - [Arduinoライブラリ acan2517FD](https://github.com/pierremolinaro/acan2517FD)
 - [Arduinoライブラリ acan2517](https://github.com/pierremolinaro/acan2517)
