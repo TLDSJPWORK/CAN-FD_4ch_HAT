@@ -9,6 +9,14 @@ MCP2518 + MCP2562FD CAN FD 4ch HAT for Raspberry Pi
 - MCP2518向けのドライバにて簡単に利用できます。
 - (おまけ)3.3V駆動のESP32でも使うことはできます。
 
+### 「CANape Kernel」活用事例における構成例
+
+ベクター・ジャパン株式会社が開催した「Vector Measurement and Calibration Seminar 2026」のセッション「Linux対応バリアント『CANape Kernel』活用事例」では、「CANape Kernel」を活用したLinux環境の計測・開発事例が紹介され、そのハードウェア構成の一例として、Raspberry PiにCAN FD 4ch HAT for Raspberry Piを接続し、CAN/CAN FDインターフェースとして使用されました。
+
+CANape Kernelの対応ハードウェアやプロトコルについては、[Vector公式のCANape Kernel紹介ページ](https://www.vector.com/en/product/canape-kernel/)を参照してください。
+
+※本記載は、上記セッションにおいて本製品が構成機器の一例として使用された事実を示すものです。本製品について、ベクター・ジャパン株式会社による動作保証、推奨、または認定を示すものではありません。
+
 ### 基板
 ![TopImage](/docs/CAN-FD_4ch_HAT_Top_Image.png)
 ![BottomImage](/docs/CAN-FD_4ch_HAT_Bottom_Image.png)
