@@ -30,6 +30,8 @@ CANape Kernelの対応ハードウェアやプロトコルについては、[Vec
 ### 使用例
 ![UseCase_01](/docs/UseCase_01.jpg)
 
+- [Raspberry Piで2つのCAN FDバスを同時に動かす（note）](https://note.com/tldsjpwork/n/n0be7f8e20efe)
+
 ### 販売ページ
 
 - [スイッチサイエンス様](https://ssci.to/10018)
