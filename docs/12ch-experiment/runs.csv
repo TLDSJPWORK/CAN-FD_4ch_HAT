@@ -1,0 +1,5 @@
+mode,rx_fix,rate_per_channel,configured_seconds,elapsed_send_seconds,sent,received,missing,unexpected,duplicates,bad_frames,send_errors,socket_drops,passed
+classic,before,960,10800,10800.000010198,124416000,248832320,10,0,330,0,0,0,False
+classic,after,960,10800,10800.000008282,124416000,248832000,0,0,0,0,0,0,True
+fd,before,434,10800,10799.999877288,56246400,112492928,2,0,130,0,0,0,False
+fd,after,434,10800,10799.999895357,56246400,112492800,0,0,0,0,0,0,True

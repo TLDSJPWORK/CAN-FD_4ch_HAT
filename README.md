@@ -32,6 +32,10 @@ CANape Kernelの対応ハードウェアやプロトコルについては、[Vec
 
 - [Raspberry Piで2つのCAN FDバスを同時に動かす（note）](https://note.com/tldsjpwork/n/n0be7f8e20efe)
 
+### 実験記録
+
+- [12ch構成の実験記録](docs/12ch-experiment/README.md)（4ch HAT 3枚を使った試作構成）
+
 ### 販売ページ
 
 - [スイッチサイエンス様](https://ssci.to/10018)
